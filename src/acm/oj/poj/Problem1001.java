@@ -2,6 +2,10 @@ package acm.oj.poj;
 
 import java.util.Scanner;
 
+/**
+ * TODO AC太难
+ * @author liuxl
+ */
 public class Problem1001 {
 	public static String floatMultiply(String num1, String num2){
 		String[] array1 = num1.split("\\.");
